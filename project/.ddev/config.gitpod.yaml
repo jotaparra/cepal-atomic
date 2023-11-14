@@ -1,0 +1,9 @@
+#ddev-gitpod-generated
+router_http_port: 8080
+router_https_port: 8443
+use_dns_when_possible: false
+
+additional_fqdns:
+- 8080-jotaparra-cepalatomic-t1vo4j95an9.ws-us106.gitpod.io
+- 8025-jotaparra-cepalatomic-t1vo4j95an9.ws-us106.gitpod.io
+- 8036-jotaparra-cepalatomic-t1vo4j95an9.ws-us106.gitpod.io
